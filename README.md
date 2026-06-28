@@ -308,10 +308,20 @@ Conceitos:
 - graficos com Plotly;
 - storytelling com dados.
 
-## Proximos Passos
+## Status e Proximas Melhorias
 
-- Criar prints do dashboard em `assets/`.
-- Criar uma base ficticia para publicacao.
+Concluido:
+
+- Pipeline de limpeza e anonimizacao.
+- Banco local com DuckDB.
+- Dashboard interativo em Streamlit.
+- Dados sinteticos para publicacao.
+- Screenshots do dashboard em `assets/`.
+- Documentacao de dados e checklist de GitHub.
+
+Melhorias futuras:
+
 - Adicionar testes simples para validar volumes e colunas esperadas.
-- Melhorar layout visual do dashboard.
+- Melhorar o layout visual do dashboard.
 - Adicionar analise temporal por data de inspecao e data do fluxo.
+- Publicar uma versao online do dashboard.
