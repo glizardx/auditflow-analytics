@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+
+data/raw/*.xlsx
+data/raw/*.xls
+data/processed/*.csv
+data/processed/*.parquet
+data/database/*.duckdb
+
+outputs/
